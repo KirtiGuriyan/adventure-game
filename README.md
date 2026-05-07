@@ -62,6 +62,7 @@ To play **The Adventure Game**, ensure you have **Python 3.x** installed.
     ```bash
     python adventure_game.py
     ```
+    
 ---
 
 ## Project Structure
